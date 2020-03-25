@@ -1,0 +1,15 @@
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/home/masaharu/.rbenv/versions/2.6.3/bin/ruby -I /home/masaharu/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190912-11885-3ev9o5.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190912-11885-1cld6pr/skiptrace/internal

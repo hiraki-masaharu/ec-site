@@ -1,0 +1,13 @@
+888d881551c5c76295e6f340eb70a537125cb9b1		branch 'depfu/check/solidus_core-2.5.0' of https://github.com/solidusio-contrib/solidus_i18n
+fa0aa62bbf2104093a7f091676e76beb6fa3097b		branch 'fix_datepicker_js_option' of https://github.com/solidusio-contrib/solidus_i18n
+7df24efd61b663b09ce2e146dd8e152107876e81		branch 'login_translations' of https://github.com/solidusio-contrib/solidus_i18n
+f23b4d397f9b3ce70053815086c8a9a257c85464		branch 'master' of https://github.com/solidusio-contrib/solidus_i18n
+aff7a1107601906ef489f207dfe25e599cd4c6ec		branch 'normalize_translations' of https://github.com/solidusio-contrib/solidus_i18n
+d2b33c7f27947b518d91fef999bc5c8daf7a37d4		branch 'remove-i18n-data-backend' of https://github.com/solidusio-contrib/solidus_i18n
+9f678f7293acc51630efa16be108183bcc5ee93d		branch 'v1.1' of https://github.com/solidusio-contrib/solidus_i18n
+042754b9cfaca7363e2d0f0acc7e7b3e200deaac		branch 'v1.3' of https://github.com/solidusio-contrib/solidus_i18n
+7c43cbbbbe59b339c4ecf5cc1493b91a5fa4ab9b	not-for-merge	tag 'v1.0.0' of https://github.com/solidusio-contrib/solidus_i18n
+cc396e95017f6cd2fa8eb6e842aa3bf2ca3efe82	not-for-merge	tag 'v1.1.0' of https://github.com/solidusio-contrib/solidus_i18n
+7b1df709905139529cbbc881828597f7e75bb29a	not-for-merge	tag 'v1.2.0' of https://github.com/solidusio-contrib/solidus_i18n
+a50090e97bd579a3b1931decdc25d7015897271b	not-for-merge	tag 'v1.3.0' of https://github.com/solidusio-contrib/solidus_i18n
+e8524cb011282b1819ae74f4c2ffc2d51d6029dc	not-for-merge	tag 'v2.0.0' of https://github.com/solidusio-contrib/solidus_i18n

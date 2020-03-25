@@ -1,0 +1,19 @@
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+/home/masaharu/.rbenv/versions/2.6.3/bin/ruby -I /home/masaharu/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190912-11885-1rpk84g.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR=" clean
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt_blowfish.c
+gcc  -D__SKIP_GNU -I/home/masaharu/.rbenv/versions/2.6.3/include     -c -o x86.o x86.S
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /mnt/c/masa0/my_solidus/masa0apap/vender/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20190912-11885-18bjsy2
